@@ -32,5 +32,4 @@ abstract class Character {
 
   @override
   String toString();
-  }
 }
